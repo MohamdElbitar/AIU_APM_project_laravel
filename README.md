@@ -70,7 +70,22 @@ php artisan migrate
 
 ##### add Category :
 
+<p align="center">
+<a href=""><img src="resources/css/addcat.png" width="500px" high="600px" alt="Build Status"></a>
+</p>
 
+#### Manage Programs :
+
+
+##### veiw programs :
+<p align="center">
+<a href=""><img src="resources/css/.png" width="500px" high="600px" alt="Build Status"></a>
+</p>
+
+##### add program :
+<p align="center">
+<a href=""><img src="resources/css/.png" width="500px" high="600px" alt="Build Status"></a>
+</p>
 
 
 
