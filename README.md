@@ -55,52 +55,8 @@ php artisan migrate
 
 ## How the system work ?
 
-#### Dashboard :
-
-<p align="center">
-<a href=""><img src="resources/css/Dashboard.png" width="500px" high="600px" alt="Build Status"></a>
-</p>
-
-#### Manage Categories :
-##### veiw Categies :
-
-<p align="center">
-<a href=""><img src="resources/css/addCategory.png" width="500px" high="600px" alt="Build Status"></a>
-</p>
-
-##### add Category :
-
-<p align="center">
-<a href=""><img src="resources/css/addcat.png" width="500px" high="600px" alt="Build Status"></a>
-</p>
-
-#### Manage Programs :
-
-
-##### veiw programs :
-<p align="center">
-<a href=""><img src="resources/css/.png" width="500px" high="600px" alt="Build Status"></a>
-</p>
-
-##### add program :
-<p align="center">
-<a href=""><img src="resources/css/.png" width="500px" high="600px" alt="Build Status"></a>
-</p>
+#### Demo :
 
 
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
