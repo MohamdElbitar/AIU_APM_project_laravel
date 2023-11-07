@@ -2,7 +2,9 @@
 <a href=""><img src="AIU_New_Logo.png" width="300px" alt="Build Status"></a>
 </p>
 
-## What APM (ACADEMIC PROGRAM MANAGEMEN)
+# <p align="center">ACADEMIC PROGRAM MANAGEMEN</p>
+
+## Why APM ?
 
 As part of Alamein International University's plan to improve its educational 
 quality, the university is seeking ABET accreditation. To obtain 
@@ -15,42 +17,45 @@ the course and evaluate the course .
 
 
 - [ABET organization](https://www.abet.org/).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## What APM ?
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+system will help the university manage its academic programs and track the progress.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+1.	The system must allow the Dean to manage Outcomes by adding standard Outcome for each each program, update, and delete .
+   
+2.	The system must allow the Dean to manage Programs by adding program with select category to which the program belongs, update, and delete the program .
+4.	The system must allow the Dean to manage Courses by adding course enter name, code of course with select program to which the program belongs, update, and delete the course .
+5.	The system must allow the Dean to manage Categories by adding category, update, and delete the category.
+6.	The system must allow the Dean to manage Courses offering by adding course enter year , select semster (Fall, Spring, Summer) with select course to which this belongs, update, and delete the course offering .
+7.	The system must allow user to manage courses assessment by add the courses assessment the user enter outcome, Degree by P%, Degree by average based on select year semester ,course ,and program , filter the selected data based on year and semester and course and show this in table, and export filtered data 
+selected in excel sheet automatically .
+8.	The system must allow  user to manage assessment plan .
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+## How to run the system
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+Install Laravel Using Composer :
+```
+composer create-project laravel/laravel app-name
+```
+run project : 
+```
+php artisan serve
+```
+
+Configur Database :
+```
+php artisan migrate
+```
+
+
+## How the system work ?
+
+
 
 ## Contributing
 
