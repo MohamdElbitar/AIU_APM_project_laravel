@@ -55,6 +55,23 @@ php artisan migrate
 
 ## How the system work ?
 
+#### Dashboard :
+
+<p align="center">
+<a href=""><img src="resources/css/Dashboard.png" width="500px" high="600px" alt="Build Status"></a>
+</p>
+
+#### Manage Categories :
+##### veiw Categies :
+
+<p align="center">
+<a href=""><img src="resources/css/addCategory.png" width="500px" high="600px" alt="Build Status"></a>
+</p>
+
+##### add Category :
+
+
+
 
 
 ## Contributing
